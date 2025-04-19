@@ -1,0 +1,151 @@
+<TIGHTENINGTORQUES CHARSET="UTF-8" LANGUAGE="zh-CN">
+  <TITLE>
+    <MAINGROUPNUMBER>17</MAINGROUPNUMBER>
+    <MAINGROUPNAME>水箱</MAINGROUPNAME>
+  </TITLE>
+  <SUBGROUPTITLE>
+    <MAINGROUPNUMBER>17</MAINGROUPNUMBER>
+    <SUBGROUPNUMBER>22</SUBGROUPNUMBER>
+    <SUBGROUPNAME>发动机油冷却器管路和齿轮油冷却器管路</SUBGROUPNAME>
+  </SUBGROUPTITLE>
+  <TABLE FRAME="ALL">
+    <TGROUP ALIGN="LEFT" CHAR="" CHAROFF="50" COLS="5" COLSEP="1" ROWSEP="1">
+      <COLSPEC COLNAME="1" COLNUM="1" COLWIDTH="67mm"/>
+      <COLSPEC COLNAME="2" COLNUM="2" COLWIDTH="28mm"/>
+      <COLSPEC COLNAME="3" COLNUM="3" COLWIDTH="24mm"/>
+      <COLSPEC COLNAME="4" COLNUM="4" COLWIDTH="44mm"/>
+      <COLSPEC COLNAME="5" COLNUM="5" COLWIDTH="19mm"/>
+      <THEAD VALIGN="BOTTOM">
+        <ROW ROWSEP="1">
+          <ENTRY COLNAME="1" MOREROWS="0" ROTATE="0"/>
+          <ENTRY COLNAME="2" MOREROWS="0" ROTATE="0">
+            <TYPEHEADER>型号</TYPEHEADER>
+          </ENTRY>
+          <ENTRY COLNAME="3" MOREROWS="0" ROTATE="0">
+            <SCREWHEADER>螺纹</SCREWHEADER>
+          </ENTRY>
+          <ENTRY COLNAME="4" MOREROWS="0" ROTATE="0">
+            <OPERATINGHEADER>拧紧力矩</OPERATINGHEADER>
+          </ENTRY>
+          <ENTRY COLNAME="5" MOREROWS="0" ROTATE="0">
+            <TORQUEHEADER>尺寸</TORQUEHEADER>
+          </ENTRY>
+        </ROW>
+      </THEAD>
+      <TBODY VALIGN="TOP">
+        <ROW ROWSEP="1">
+          <ENTRY COLNAME="1" MOREROWS="0" ROTATE="0">
+            <RELATION>
+              <ADDRESS>1AZ</ADDRESS>
+              <PARAGRAPH>齿轮油冷却器管路安装到变速箱上</PARAGRAPH>
+            </RELATION>
+          </ENTRY>
+          <ENTRY COLNAME="2" MOREROWS="0" ROTATE="0">
+            <VALIDITIES>
+              <VALIDITY>
+                <ENGINE>N20</ENGINE>
+                <ENGINE>N26</ENGINE>
+              </VALIDITY>
+            </VALIDITIES>
+          </ENTRY>
+          <ENTRY COLNAME="3" MOREROWS="0" ROTATE="0">
+            <SCREW>M8</SCREW>
+          </ENTRY>
+          <ENTRY COLNAME="4" MOREROWS="0" ROTATE="0"/>
+          <ENTRY COLNAME="5" MOREROWS="0" ROTATE="0">
+            <TORQUE>
+              <MEASURE>
+                <PARAGRAPH>19</PARAGRAPH>
+              </MEASURE>
+              <UNIT>Nm</UNIT>
+            </TORQUE>
+          </ENTRY>
+        </ROW>
+        <ROW ROWSEP="1">
+          <ENTRY COLNAME="1" MOREROWS="0" ROTATE="0">
+            <RELATION>
+              <ADDRESS>2AZ</ADDRESS>
+              <PARAGRAPH>齿轮油管路支架安装到油底壳上</PARAGRAPH>
+            </RELATION>
+          </ENTRY>
+          <ENTRY COLNAME="2" MOREROWS="0" ROTATE="0">
+            <VALIDITIES>
+              <VALIDITY>
+                <ENGINE>N20</ENGINE>
+                <ENGINE>N26</ENGINE>
+              </VALIDITY>
+            </VALIDITIES>
+          </ENTRY>
+          <ENTRY COLNAME="3" MOREROWS="0" ROTATE="0">
+            <SCREW>M6</SCREW>
+          </ENTRY>
+          <ENTRY COLNAME="4" MOREROWS="0" ROTATE="0"/>
+          <ENTRY COLNAME="5" MOREROWS="0" ROTATE="0">
+            <TORQUE>
+              <MEASURE>
+                <PARAGRAPH>10</PARAGRAPH>
+              </MEASURE>
+              <UNIT>Nm</UNIT>
+            </TORQUE>
+          </ENTRY>
+        </ROW>
+        <ROW>
+          <ENTRY ROTATE="0">
+            <RELATION>
+              <ADDRESS>3AZ</ADDRESS>
+              <PARAGRAPH>齿轮油冷却器管路和发动机油管支架</PARAGRAPH>
+            </RELATION>
+          </ENTRY>
+          <ENTRY ROTATE="0">
+            <VALIDITIES>
+              <VALIDITY>
+                <ENGINE>N20</ENGINE>
+                <ENGINE>N26</ENGINE>
+              </VALIDITY>
+            </VALIDITIES>
+          </ENTRY>
+          <ENTRY ROTATE="0">
+            <SCREW>M6</SCREW>
+          </ENTRY>
+          <ENTRY ROTATE="0"/>
+          <ENTRY ROTATE="0">
+            <TORQUE>
+              <MEASURE>
+                <PARAGRAPH>10</PARAGRAPH>
+              </MEASURE>
+              <UNIT>Nm</UNIT>
+            </TORQUE>
+          </ENTRY>
+        </ROW>
+        <ROW ROWSEP="1">
+          <ENTRY COLNAME="1" MOREROWS="0" ROTATE="0">
+            <RELATION>
+              <ADDRESS>4AZ</ADDRESS>
+              <PARAGRAPH>齿轮油冷却器管路支架安装到发动机支撑上</PARAGRAPH>
+            </RELATION>
+          </ENTRY>
+          <ENTRY COLNAME="2" MOREROWS="0" ROTATE="0">
+            <VALIDITIES>
+              <VALIDITY>
+                <ENGINE>N20</ENGINE>
+                <ENGINE>N26</ENGINE>
+              </VALIDITY>
+            </VALIDITIES>
+          </ENTRY>
+          <ENTRY COLNAME="3" MOREROWS="0" ROTATE="0">
+            <SCREW>M6</SCREW>
+          </ENTRY>
+          <ENTRY COLNAME="4" MOREROWS="0" ROTATE="0"/>
+          <ENTRY COLNAME="5" MOREROWS="0" ROTATE="0">
+            <TORQUE>
+              <MEASURE>
+                <PARAGRAPH>8</PARAGRAPH>
+              </MEASURE>
+              <UNIT>Nm</UNIT>
+            </TORQUE>
+          </ENTRY>
+        </ROW>
+      </TBODY>
+    </TGROUP>
+  </TABLE>
+</TIGHTENINGTORQUES>
